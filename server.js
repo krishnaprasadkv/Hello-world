@@ -10,7 +10,3 @@ var server = http.createServer(function (request, response) {
 server.listen(port)
 
 console.log('Server running at http://localhost:' + port)
-
-
-
-
